@@ -1,0 +1,25 @@
+*{
+    background-color: #3883c9ea;
+    color: black;
+}
+h1{
+    color: #6c3fa7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: #801388;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h3{
+    color: #ca1f1ff8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#boton{
+    background-color: #6c3fa7;
+}
+.resaltado{
+    background-color: #5c53acf8;
+    color: #3883c9ea;
+    font-size: 28px;
+}
